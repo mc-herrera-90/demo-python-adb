@@ -1,0 +1,6 @@
+wallet/
+Wallet_*/
+*.zip
+*.pem
+*.ora
+.env
